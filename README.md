@@ -1,16 +1,25 @@
-### Hi there 👋
+🌠﻿ STARLINK PROTOCOL 🌠
 
-<!--
-**starlinkprotocol/starlinkprotocol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 STARLINK is a safe, auto-reward, hyper-deflationary DeFi token on the Binance Smart Chain built in response to the recent surge in rugpulls and scams.
 
-Here are some ideas to get you started:
+📌 How does the token work?
+STARLINK core functions are broken down into 3 different purposes. Each one benefits the coin in its unique way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛰 10% Tax On All Transactions
+🛰 5% Distributed To Holders
+🛰 5% Automatically To Liquidity
+
+📌INFO:
+- FAIRLAUNCH AT 1K MEMBERS 
+- PRIVATE SALE IS LIVE 
+- OWNERSHIP IS GOING TO BE RENOUNCED
+- LP WILL BE BURN
+
+LINKS
+🌐Website: coming soon
+🐦Twitter: https://twitter.com/starlinkprotoc
+🫂Facebook: https://www.facebook.com/Starlinkprotocol-110117294639200
+📸Instagram: https://www.instagram.com/starlinkprotocol
+💢Reddit: https://www.reddit.com/r/StarlinkProtocol
+📰Medium: https://medium.com/@starlinkprotocol
+🏛Telegram: https://t.me/StarlinkProtocolBSC
